@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-color: #e3f2fd;
+  align-content: center;
+  font-family: "Outfit", sans-serif;
+}
+div{
+  top:100px;
+  position: relative;
+  width: 200px;
+  display: inline-block;
+  margin: 20px 10px 10px 60px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 14px;
+}
+img{
+  height: inherit;
+  width: inherit;
+}
+p{
+  font-size: 12px;
+  font-weight: 400;
+  color: lightgrey;
+}
+.p1{
+  color:darkblue;
+  font-size: 15px;
+  font-weight: 700;
+}
