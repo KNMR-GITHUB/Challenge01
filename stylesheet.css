@@ -4,7 +4,7 @@ body{
   align-content: center;
   font-family: "Outfit", sans-serif;
 }
-div{
+article{
   top:100px;
   position: relative;
   width: 200px;
